@@ -27,7 +27,7 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-/* HTML5 display-role reset for older browsers */
+
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -53,8 +53,6 @@ table {
 
 
 
-/* ----- AUTOPREFIXER FOR VS CODE WAS USED FOR VENDOR PREFIXES ----- */
-/* ---------- VARIABLES ---------- */
 :root{
     --red: #760029;
     --pink: #9a0093;
